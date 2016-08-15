@@ -1,0 +1,24 @@
+----Credits To Koditips.com----
+
+Trakt is an online service that allows you to add movies and shows to a library (called a collection) similar to the Kodi library integration, but it also does a lot more! Once you have an account setup, there are tons of Trakt apps so that you can keep everything organized from your phone!  The official Trakt website maintains a list of add-ons that allow for Trakt account management.
+
+Here are some reasons why Trakt is superior over traditional Kodi library integration:
+
+[B]Reason #1 – Trakt Support Goes Across Multiple Add-ons[/B]
+
+The number one reason why Kodi library integration sucks is because it only provides a shortcut into the one single add-on you used to save a show to your library! This means that if Exodus ever stops working and all of your library is added from there, it is useless. When you add a show to your collection, you can view your collection in any add-on that supports Trakt. The only thing that changes is that when you are in Exodus, all your shows link to the Exodus stream select. Likewise, in Velocity all of your shows link to the Velocity stream select. Your Kodi library is automated for every add-on.
+
+[B]Reason #2 – Update your collection on-the-go[/B]
+
+When you add a show into your Trakt collection, your collection is viewable in Exodus, Velocity, SALTs, or any other Trakt-supported add-on. You can always view your collection from your mobile phone app and add, delete, and edit on the go as you please and it will all be updated when you get home and boot up Kodi! You no longer have to spend a bunch of time in the Kodi menus adding shows to your library.
+
+[B]Reason #3 – Other Trakt features[/B]
+
+In addition to being a movie and TV library, Trakt also comes with other features:
+
+>>>Add TV Shows and Movies to your watch list and turn on reminders when a new episode is about to air
+>>>Share what you’re watching with your friends on Facebook and Twitter and give everything a rating.
+>>>A custom calendar so you can see when all of your TV shows air.
+>>>Get recommended TV shows and movies based on your viewing habits.
+
+Some of these features require other Kodi add-ons to be installed, such as the Next Aired add-on to know when the next new episode of a TV show airs. Keep your Kodi setup streamlined and move this functionality to Trakt, where you can get the information quickly on your phone without booting into Kodi.
