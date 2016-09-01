@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.program.kootech" name="[COLOR dodgerblue]Kootech[/COLOR] [COLOR white]Updates[/COLOR] " version="0.0.1" provider-name="Kootech">
+<addon id="plugin.program.kootech" name="[COLOR dodgerblue]Kootech[/COLOR] [COLOR white]Updates[/COLOR] " version="0.1.6" provider-name="Kootech">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>

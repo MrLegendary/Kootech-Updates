@@ -218,9 +218,9 @@ if AUTOUPDATE == 'Yes':
 		ver = wiz.checkWizard('version')
 		zip = wiz.checkWizard('zip')
 		if ver > VERSION:
-			yes = DIALOG.yesno(ADDONTITLE, 'There is a new version of the %s!' % ADDONTITLE, 'Would you like to download v%s?' % ver, nolabel='Remind Me Later', yeslabel="Download")
+			yes = DIALOG.yesno(ADDONTITLE, 'Er is een nieuwe versie van %s!' % ADDONTITLE, 'Wilt u versie %s downloaden?' % ver, nolabel='Nu niet', yeslabel="Download")
 			if yes:
-				DP.create(ADDONTITLE,'Downloading Update...','', 'Please Wait')
+				DP.create(ADDONTITLE,'Aan het downloaden','', 'Even geduld...')
 				lib=os.path.join(PACKAGES, '%s-%s.zip' % (ADDON_ID, ver))
 				try: os.remove(lib)
 				except: pass

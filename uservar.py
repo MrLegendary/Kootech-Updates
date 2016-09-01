@@ -66,9 +66,9 @@ CONTACT        = 'Voor vragen neem contact op via:\r\n\r\nlouvankooten@live.nl'
 ### AUTO UPDATE #########################################
 ########## FOR THOSE WITH NO REPO #######################
 # Enable Auto Update 'Yes' or 'No'
-AUTOUPDATE     = 'No'                                                                    
+AUTOUPDATE     = 'Yes'                                                                    
 # Url to wizard version
-WIZARDFILE     = ''                          
+WIZARDFILE     = 'http://kodikootech.com/Repo/builds.txt'                          
 #########################################################
 
 #########################################################
